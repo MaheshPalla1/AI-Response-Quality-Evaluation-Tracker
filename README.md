@@ -30,6 +30,7 @@ The dashboard provides an overview of total evaluations, good responses, respons
 To demonstrate practical skills in AI response evaluation, data analysis, quality assessment and Excel dashboard creation.
 
 ## Project Screenshots
+<img width="1142" height="687" alt="AI Evaluation Dashboard" src="https://github.com/user-attachments/assets/75c08fba-c4d5-4e5a-8d06-8d353aecfe0b" />
+<img width="1896" height="570" alt="AI-Evaluation-Tracker" src="https://github.com/user-attachments/assets/244c7c89-bd29-4d16-ade9-a37bb683b658" />
 
-<img width="1672" height="941" alt="Excel Inventory Management Dashboard" src="https://github.com/user-attachments/assets/cd14cb96-1cc3-4f13-935f-35379f6d5d51" />
 
