@@ -32,7 +32,8 @@ To demonstrate practical skills in AI response evaluation, data analysis, qualit
 ## Project Screenshots
 
 ### AI Evaluation Tracker
-attachments/files/34526431/AI.Response.Quality.Evaluation.Tracker.xlsx)
+[AI Response Quality Evaluation Tracker.xlsx](https://github.com/user-attachments/files/34527000/AI.Response.Quality.Evaluation.Tracker.xlsx)
+
 
 ### Dashboard
 ![AI Evaluation Dashboard](AI-Evaluation-Dashboard.png)
