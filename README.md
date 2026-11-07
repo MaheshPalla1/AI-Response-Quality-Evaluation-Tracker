@@ -31,9 +31,5 @@ To demonstrate practical skills in AI response evaluation, data analysis, qualit
 
 ## Project Screenshots
 
-### AI Evaluation Tracker
-[AI Response Quality Evaluation Tracker.xlsx](https://github.com/user-attachments/files/34527000/AI.Response.Quality.Evaluation.Tracker.xlsx)
+<img width="1672" height="941" alt="Excel Inventory Management Dashboard" src="https://github.com/user-attachments/assets/cd14cb96-1cc3-4f13-935f-35379f6d5d51" />
 
-
-### Dashboard
-![AI Evaluation Dashboard](AI-Evaluation-Dashboard.png)
